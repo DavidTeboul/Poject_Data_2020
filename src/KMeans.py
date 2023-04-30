@@ -1,7 +1,7 @@
 """
-Itay dali 204711196
-David Toubul 342395563
-Chen Azulay 201017159
+Itay dali 
+David Toubul 
+Chen Azulay 
 """
 
 
